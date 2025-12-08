@@ -4,7 +4,8 @@
 //import task4.start
 //import task5.start
 //import task6.start
-import task7.start
+//import task7.start
+import task8.start
 
 fun main() {
     start()
